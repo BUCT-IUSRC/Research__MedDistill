@@ -1,0 +1,7 @@
+path: '/root/autodl-tmp/p_seg'
+train: 'new_p_box-train/images/'
+val: 'new_p_box-valid/images/'
+
+# class names
+names:
+  0: 'p'

@@ -29,7 +29,7 @@
 #### <font style="color:rgb(31, 35, 40);">2.Data preprocessing</font>
     --python Creat_yolodata.py --dataset 'p'
 #### <font style="color:rgb(31, 35, 40);">3.Box Generation </font><font style="color:rgb(0,0,0);">Sub-network</font>
-    --yolo task=detect mode=train model=yolov8l.pt imgsz=256 data=./p.yaml epochs=50 batch=0.90 name=p 
+    --pyhton detection.py 
 #### <font style="color:rgb(0,0,0);">4.Distillation Sub-network</font>
     --pyhton meddistill.py
 #### <font style="color:rgb(0,0,0);">5.Test

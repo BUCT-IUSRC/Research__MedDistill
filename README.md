@@ -3,8 +3,8 @@
 <font style="color:rgb(0,0,0);">Te Guo, Tianyu Shen*, Jingyuan Gao, </font> Kunfeng Wang*_<font style="color:rgb(0,0,0);">(*Corresponding authors)</font>_
 
 ## Framework Overview
-![overrall.pdf](https://github.com/user-attachments/files/21765108/overrall.pdf)
 
+![](https://github.com/user-attachments/files/21765108/overrall.pdf)
 <font style="color:rgb(0,0,0);">The overall framework of MedDistill. Before training, a pretrained detection model is used to extract image features and generate candidate bounding boxes to assist the segmentation task. During unsupervised training, a cross-architecture knowledge distillation strategy enables collaborative learning between a visual foundation model and a lightweight model, yielding high-quality soft masks. An ULWR model is introduced to dynamically balance mask-level and feature-level distillation losses, thereby enhancing segmentation performance under label-scarce conditions.</font>
 
 ## Install

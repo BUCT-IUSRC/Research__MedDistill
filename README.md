@@ -1,6 +1,6 @@
 # MedDistill: Multi-Level Distilled Foundation-to-Lightweight Model Co-Learning for Unsupervised Medical Segmentation
 
-<font style="color:rgb(0,0,0);">Te Guo, Tianyu Shen, Hongwei Yu, Jingyuan Gao, Jixin Luan, Manxi Xu, Guolin Ma, </font> Kunfeng Wang_<font style="color:rgb(0,0,0);"></font>_
+<font style="color:rgb(0,0,0);">Te Guo, Tianyu Shen, Hongwei Yu, Jingyuan Gao, Jixin Luan, Manxi Xu, Guolin Ma, </font> Kunfeng Wang<font style="color:rgb(0,0,0);"></font>_
 
 ## Framework Overview
 <img width="1983" height="1040" alt="new-论文图" src="https://github.com/user-attachments/assets/473f0923-dd35-44f5-b932-b2e7dad32de3" />
